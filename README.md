@@ -1,3 +1,8 @@
+![image](https://user-images.githubusercontent.com/56398506/69912292-b7695580-1459-11ea-81d0-7d538db9a637.png)
+
+![image](https://user-images.githubusercontent.com/56398506/69912313-14650b80-145a-11ea-9e2f-f413ffa77b27.png)
+
+
 Flowchart Tugas 4
 
 ![image](https://user-images.githubusercontent.com/56398506/69911958-8129d700-1455-11ea-9e96-89a9d5aa2d47.png)
